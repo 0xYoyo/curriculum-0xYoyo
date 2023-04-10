@@ -27,7 +27,7 @@ TOP uses Markdown for the layout and formatting of lesson and project files to g
 
 ## Layouts
 
-In general, the following layouts should be used for all lessons and projects. Text that should be replaced with the author's own content will be all in CAPS, with any additional information regarding a section listed at the end of the layout code block.
+In general, the following layouts should be used for all lessons and projects. Text that should be replaced with the author's own content will be all in CAPS! with any additional information regarding a section listed at the end of the layout code block.
 
 When adding new lessons or projects, make a copy of either the [lesson template](./templates/lesson-template.md) or the [project template](./templates/project-template.md) in the appropriate folder where the new lesson/project should be placed. Then begin editing the template copy.
 
